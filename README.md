@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hello there!
+
+This is edited readme.md file and COMMIT
